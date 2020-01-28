@@ -1,7 +1,7 @@
 # django-resume-builder
 This is the base project for the Django Resume builder assessment.
 
-## Setup (Unix)
+## Setup (Windows)
 - Create Virtual Enviroment for your Application.
 - Clone this repository.
 - Install the of pip install -r requirements.txt.
