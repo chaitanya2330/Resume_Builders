@@ -2,11 +2,10 @@
 This is the base project for the Django Resume builder assessment.
 
 ## Setup (Unix)
-- Install `python` (version 3), `pip`, and `virtualenv` for your platform.
+- Create Virtual Enviroment for your Application.
 - Clone this repository.
-- Install the of `requirements.txt`.
-- Run `python manage.py migrate`. This will create a local database for db.sqlite3.
--  Create a superuser
-
+- Install the of pip install -r requirements.txt.
+- Run python manage.py migrate. This will create a local database of db.sqlite3.
+-  Create a python manage.py Createsuperuser
 - python manage.py runserver`
 
